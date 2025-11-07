@@ -4,9 +4,6 @@ node_modules/
 # Parcel cache
 .parcel-cache/
 
-# Build output (dist folder)
-dist/
-
 # Environment variables
 .env
 
