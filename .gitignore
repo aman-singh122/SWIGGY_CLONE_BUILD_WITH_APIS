@@ -1,3 +1,5 @@
 # Node modules folder (dependencies)
 node_modules/
 
+parcel-cache/
+
